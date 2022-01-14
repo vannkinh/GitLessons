@@ -8,7 +8,7 @@
 
 [4. Available Scripts](#available-script)
 
-[5. Postman](#postman)
+[5.Postman](#postman)
 
 #1. Noted
 
@@ -100,7 +100,7 @@ Start the application for production
   npm run start
 ```
 
-# 5. Postman
+# 5.Postman
 - Download postman
 
 You can download postman here: https://www.postman.com/downloads/
