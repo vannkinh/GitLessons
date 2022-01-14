@@ -8,9 +8,9 @@
 
 [4. Available Scripts](#available-script)
 
-[5. Postman](#postman)
+[Postman](#postman)
 
-# 1. Noted
+#1. Noted
 
 * node.js version `v12.18.3`
 * npm version `8.1.2`
@@ -100,7 +100,7 @@ Start the application for production
   npm run start
 ```
 
-# 5. Postman
+# Postman
 - Download postman
 
 You can download postman here: https://www.postman.com/downloads/
