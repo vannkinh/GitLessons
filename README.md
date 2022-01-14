@@ -100,7 +100,7 @@ Start the application for production
   npm run start
 ```
 
-# Postman
+# 5. Postman
 - Download postman
 
 You can download postman here: https://www.postman.com/downloads/
