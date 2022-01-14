@@ -8,7 +8,7 @@
 
 [4. Available Scripts](#available-script)
 
-[Postman](#postman)
+[5. Postman](#postman)
 
 #1. Noted
 
