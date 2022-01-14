@@ -1,14 +1,22 @@
 # Table of Content
 
-[1. Get Started](#get-started)
+[1. Noted](#noted)
 
-[2. Database](#database)
+[2. Get Started](#get-started)
 
-[3. Available Scripts](#available-script)
+[3. Database](#database)
 
-[4. Noted](#noted)
+[4. Available Scripts](#available-script)
 
-# 1. Get started
+[5. Postman](#postman)
+
+# 1. Noted
+
+* node.js version `v12.18.3`
+* npm version `8.1.2`
+* npx version `10.2.2`
+
+# 2. Get Started
 
 ## Installation 
 ```
@@ -40,7 +48,7 @@ If npx is not installed you can install that separately by running the below com
   npm i bcrypt
 ```
 
-# 2. Database
+# 3. Database
 
 ## Create database directly
 
@@ -71,7 +79,7 @@ set [Databae-Url from .env file]
 ```
 Then it will output the environment on the command line like: development
 
-# 3. Available Scripts
+# 4. Available Scripts
 
 ## Database migration 
 You need to migrate the database following the command below: 
@@ -92,8 +100,12 @@ Start the application for production
   npm run start
 ```
 
-# 4. Noted
+# 5. Postman
+- Download postman
 
-* node.js version `v12.18.3`
-* npm version `8.1.2`
-* npx version `10.2.2`
+You can download postman here: https://www.postman.com/downloads/
+
+- Import postman url
+
+Postman url: https://www.postman.com/collections/d4bf2fcfb0f9938944d4
+
