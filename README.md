@@ -6,7 +6,7 @@
 
 [Database](#database)
 
-[Available Scripts](#available-script)
+[Available Scripts](#available-scripts)
 
 [Postman](#postman)
 
