@@ -56,7 +56,7 @@ If npx is not installed you can install that separately by running the below com
 Download Navicat: https://getintopc.com/softwares/development/navicat-premium-2020-free-download/
 
 * Noted
-Database name and Password must be follow the .env file
+Database name and Password must be follow the .env or config fiel.
 
 
 ## Create database by command
